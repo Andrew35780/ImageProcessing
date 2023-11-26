@@ -1,0 +1,11 @@
+C:\Users\andre\source\repos\ImageProcessingTraining\ImageProcessingTraining\bin\Debug\ImageProcessingTraining.exe.config
+C:\Users\andre\source\repos\ImageProcessingTraining\ImageProcessingTraining\bin\Debug\ImageProcessingTraining.exe
+C:\Users\andre\source\repos\ImageProcessingTraining\ImageProcessingTraining\bin\Debug\ImageProcessingTraining.pdb
+C:\Users\andre\source\repos\ImageProcessingTraining\ImageProcessingTraining\obj\Debug\ImageProcessingTraining.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\ImageProcessingTraining\ImageProcessingTraining\obj\Debug\ImageProcessingTraining.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\source\repos\ImageProcessingTraining\ImageProcessingTraining\obj\Debug\ImageProcessingTraining.Form.resources
+C:\Users\andre\source\repos\ImageProcessingTraining\ImageProcessingTraining\obj\Debug\ImageProcessingTraining.Properties.Resources.resources
+C:\Users\andre\source\repos\ImageProcessingTraining\ImageProcessingTraining\obj\Debug\ImageProcessingTraining.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\ImageProcessingTraining\ImageProcessingTraining\obj\Debug\ImageProcessingTraining.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\ImageProcessingTraining\ImageProcessingTraining\obj\Debug\ImageProcessingTraining.exe
+C:\Users\andre\source\repos\ImageProcessingTraining\ImageProcessingTraining\obj\Debug\ImageProcessingTraining.pdb
